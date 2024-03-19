@@ -22,9 +22,4 @@ public class Util {
         }
         return connection;
     }
-
-
-
-
-    // реализуйте настройку соеденения с БД
 }
